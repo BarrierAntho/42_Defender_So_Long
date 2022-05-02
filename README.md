@@ -2,7 +2,7 @@
 
 ## Content
 - [Historic :clock7:](#historic-clock7)
-- [Check - Mandatory](#check-mandatory-key)
+- [Check - Mandatory](#check---mandatory-key)
 - [Sources :link:](#sources-link)
 
 ## Historic :clock7:
