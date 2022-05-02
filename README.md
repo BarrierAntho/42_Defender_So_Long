@@ -23,15 +23,15 @@
 	- File permission read denied
 	- File is a directory
 - Maps parsing (see [maps :earth\_africa:](maps))
-	- Items in the map  
-|char|item|
-|:---|:---|
-|0|empty space|
-|1|wall|
-|C|collectible|
-|E|exit door spawn|
-|P|player spawn|
-	- What happens if:
+	- Items in the map
+	|Character|Item|
+	|:---|:---|
+	|0|empty space|
+	|1|wall|
+	|C|collectibe|
+	|E|exit door spawn|
+	|P|player spawn|
+	- No error if:
 		- Exit > 1
 		- P > 1
 		- Impossible path
@@ -45,7 +45,7 @@
 	- File format != .xpm
 	- File permission read denied
 	- File is a directory
-- Sprite parsing (see [ultra basic sprites](sprites) and [pacman sprites](sprites_pacman))
+- Sprite parsing (see [ultra basic sprites](sprites_basic) and [pacman sprites](sprites_pacman))
 	- Management of sprites's size between definition from project's headers and xpm files
 
 ## Sources :link:
