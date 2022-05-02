@@ -2,6 +2,7 @@
 
 ## Content
 - [Historic :clock7:](#historic-clock7)
+- [Check - Mandatory](#check-mandatory-key)
 - [Sources :link:](#sources-link)
 
 ## Historic :clock7:
@@ -12,7 +13,7 @@
 |2022-05-19|v1.1|update maps and sprites files|
 |2022-03-19|v1.0|Init|
 
-## Check - Mandatory
+## Check - Mandatory :key:
 [Go to content](#content)
 
 - Execute the program as following: `env -i ./so_long <maps.ber>`  
