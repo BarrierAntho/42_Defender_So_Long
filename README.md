@@ -24,14 +24,13 @@
 	- File is a directory
 - Maps parsing (see [maps :earth\_africa:](maps))
 	- Items in the map  
-	|char|item|
-	|:---|:---|
-	|0|empty space|
-	|1|wall|
-	|C|collectible|
-	|E|exit door spawn|
-	|P|player spawn|
-
+|char|item|
+|:---|:---|
+|0|empty space|
+|1|wall|
+|C|collectible|
+|E|exit door spawn|
+|P|player spawn|
 	- What happens if:
 		- Exit > 1
 		- P > 1
