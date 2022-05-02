@@ -24,13 +24,11 @@
 	- File is a directory
 - Maps parsing (see [maps :earth\_africa:](maps))
 	- Items in the map
-	|Character|Item|
-	|:---|:---|
-	|0|empty space|
-	|1|wall|
-	|C|collectibe|
-	|E|exit door spawn|
-	|P|player spawn|
+|Date(YYYY-MM-DD)|Version|Comment|
+|:---|:---|:---|
+|2022-05-02|v1.2|update README|
+|2022-05-19|v1.1|update maps and sprites files|
+|2022-03-19|v1.0|Init|
 	- No error if:
 		- Exit > 1
 		- P > 1
