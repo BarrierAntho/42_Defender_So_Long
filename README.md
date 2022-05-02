@@ -23,7 +23,7 @@
 	- File permission read denied
 	- File is a directory
 - Maps parsing (see [maps :earth\_africa:](maps))
-	- Items in the map
+	- Items in the map  
 	|char|item|
 	|:---|:---|
 	|0|empty space|
@@ -31,6 +31,7 @@
 	|C|collectible|
 	|E|exit door spawn|
 	|P|player spawn|
+
 	- What happens if:
 		- Exit > 1
 		- P > 1
